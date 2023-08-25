@@ -1,6 +1,6 @@
 # Gzip_Extract
 
-BurpSuite Extenion to view/modify gzip content on the Request Body
+### BurpSuite Extenion to view/modify gzip content in the Request Body
 
 ```
 cd Gzip_Extract
